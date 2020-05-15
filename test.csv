@@ -1,0 +1,12 @@
+﻿attack,base_total,defense,hp,name,pokedex_number,sp_attack,sp_defense,speed,type1,generation,is_legendary
+49,318,49,45,Bulbasaur,1,65,65,45,grass,1,0
+62,405,63,60,Ivysaur,2,80,80,60,grass,1,0
+100,625,123,80,Venusaur,3,122,120,80,grass,1,0
+52,309,43,39,Charmander,4,60,50,65,fire,1,0
+64,405,58,58,Charmeleon,5,80,65,80,fire,1,0
+104,634,78,78,Charizard,6,159,115,100,fire,1,0
+48,314,65,44,Squirtle,7,50,64,43,water,1,0
+63,405,80,59,Wartortle,8,65,80,58,water,1,0
+103,630,120,79,Blastoise,9,135,115,78,water,1,0
+30,195,35,45,Caterpie,10,20,20,45,bug,1,0
+20,205,55,50,Metapod,11,25,25,30,bug,1,0

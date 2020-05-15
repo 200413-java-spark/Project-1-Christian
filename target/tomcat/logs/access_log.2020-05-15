@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:08:47 -0500] "POST /spark/pokemon?type=grass&gen=1 HTTP/1.1" 200 125 http-bio-8080-exec-1 5202
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:11:28 -0500] "POST /spark/pokemon?type=grass&gen=1 HTTP/1.1" 200 125 http-bio-8080-exec-3 432
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:11:42 -0500] "POST /spark/pokemon?type=fire&gen=1 HTTP/1.1" 200 121 http-bio-8080-exec-5 378
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:11:48 -0500] "POST /spark/pokemon?type=fire&gen=3 HTTP/1.1" 200 58 http-bio-8080-exec-7 371
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:11:52 -0500] "POST /spark/pokemon?type=fire&gen=4 HTTP/1.1" 200 53 http-bio-8080-exec-9 271
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:11:58 -0500] "POST /spark/pokemon?type=fire&gen=7 HTTP/1.1" 200 54 http-bio-8080-exec-1 220
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:16:22 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 4 http-bio-8080-exec-1 7325
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:26:06 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 4 http-bio-8080-exec-1 7433
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:28:48 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 - http-bio-8080-exec-1 7050
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:31:08 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 4 http-bio-8080-exec-1 5462
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:35:20 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 4 http-bio-8080-exec-1 6636
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:41:02 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 4 http-bio-8080-exec-1 6622
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:41:31 -0500] "POST /spark/pokemon?type=fire HTTP/1.1" 200 30 http-bio-8080-exec-1 7015
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:52:13 -0500] "POST /spark/pokemon?pokemon=Squirtle HTTP/1.1" 200 14 http-bio-8080-exec-1 5057
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:53:59 -0500] "POST /spark/pokemon?pokemon=Squirtle HTTP/1.1" 200 64 http-bio-8080-exec-1 6339
+0:0:0:0:0:0:0:1 - - [15/May/2020:01:54:24 -0500] "POST /spark/pokemon?type=grass&gen=2 HTTP/1.1" 200 90 http-bio-8080-exec-3 304
